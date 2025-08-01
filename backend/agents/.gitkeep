@@ -1,0 +1,2 @@
+# This directory will contain agent configuration files at runtime
+# It's preserved in the Docker image but excluded from the build context

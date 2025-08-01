@@ -1,0 +1,14 @@
+id: agent-researcher-001
+name: Research Agent
+type: researcher
+description: Agent responsible for researching and gathering information
+capabilities:
+  - information_gathering
+  - web_search
+  - document_analysis
+  - summarization
+environment:
+  AGENT_ROLE: researcher
+  SEARCH_API_KEY: ${SEARCH_API_KEY}
+max_restarts: 3
+restart_delay: 5

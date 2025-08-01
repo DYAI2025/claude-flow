@@ -1,0 +1,14 @@
+id: agent-coder-001
+name: Coding Agent
+type: coder
+description: Agent responsible for code generation and implementation
+capabilities:
+  - code_generation
+  - code_review
+  - refactoring
+  - debugging
+environment:
+  AGENT_ROLE: coder
+  PREFERRED_LANGUAGE: python
+max_restarts: 3
+restart_delay: 5

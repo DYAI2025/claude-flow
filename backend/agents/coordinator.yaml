@@ -1,0 +1,14 @@
+id: agent-coordinator-001
+name: Coordination Agent
+type: coordinator
+description: Agent responsible for coordinating tasks between other agents
+capabilities:
+  - task_distribution
+  - workflow_management
+  - conflict_resolution
+  - progress_tracking
+environment:
+  AGENT_ROLE: coordinator
+  COORDINATION_MODE: hierarchical
+max_restarts: 5
+restart_delay: 3
