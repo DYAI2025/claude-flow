@@ -1,0 +1,26 @@
+_id: A_FEIGNED_FORGETFULNESS_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_FEIGNED_FORGETFULNESS_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Ich wollte die Spülmaschine ausräumen, hab ich aber total vergessen.
+- Oh, die E-Mail hab ich komplett übersehen.
+- Ich hab einfach nicht mehr dran gedacht, sorry.
+- Da kam leider was Wichtiges dazwischen.
+- Sorry, hab ich heute nicht geschafft.
+pattern: Pattern for A_FEIGNED_FORGETFULNESS_MARKER
+metadata:
+  created: 2025-07-21 12:51:17.609109
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: SGR_FEIGNED_FORGETFULNESS_01
+original_description: 'Atomic Marker für das Vortäuschen von Vergesslichkeit oder
+  Unwissenheit, um Verantwortung oder Aufgaben zu umgehen.
+
+  '

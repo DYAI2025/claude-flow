@@ -1,0 +1,24 @@
+_id: S_CIRCULAR_ARGUMENT_MARKER
+frame:
+  signal: Conversational dynamics patterns for S_CIRCULAR_ARGUMENT_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for S_CIRCULAR_ARGUMENT_MARKER
+metadata:
+  created: 2025-07-23 01:09:13.319945
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: SGR_CIRCULAR_ARGUMENT_01
+original_description: Erkennt eine Gesprächsdynamik, bei der wiederholte Beschwerden
+  mit dem Gefühl der Ausweglosigkeit kombiniert werden.

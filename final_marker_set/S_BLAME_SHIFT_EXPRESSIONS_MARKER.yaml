@@ -1,0 +1,29 @@
+_id: S_BLAME_SHIFT_EXPRESSIONS_MARKER
+frame:
+  signal: Conversational dynamics patterns for S_BLAME_SHIFT_EXPRESSIONS_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for S_BLAME_SHIFT_EXPRESSIONS_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.768946'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_BLAME_SHIFT_01
+original_description: '>
+
+  Bedeutungsgruppe von Phrasen, in denen Verantwortung für ein
+
+  Problem indirekt oder direkt auf das Gegenüber verschoben wird,
+
+  häufig in Verbindung mit Schuldzuweisung, Defensivität oder Abwertung.'

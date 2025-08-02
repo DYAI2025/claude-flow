@@ -1,0 +1,27 @@
+_id: C_ATTACHMENT_STYLE_ANXIOUS_MARKER
+frame:
+  signal: Attachment style linguistic patterns for C_ATTACHMENT_STYLE_ANXIOUS_MARKER
+  concept: Psychological attachment theory markers
+  pragmatics: Relationship pattern identification
+  narrative: Understanding interpersonal dynamics through language
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for C_ATTACHMENT_STYLE_ANXIOUS_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.636342'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_CL_ANX_01
+original_description: '>
+
+  Aktiv, wenn ANXIOUS_CHILDHOOD_REFERENCE ≥2‑mal
+
+  im 20‑Nachrichten‑Fenster erscheint.'

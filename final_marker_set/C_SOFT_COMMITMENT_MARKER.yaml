@@ -1,0 +1,27 @@
+_id: C_SOFT_COMMITMENT_MARKER
+frame:
+  signal: Conversational dynamics patterns for C_SOFT_COMMITMENT_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for C_SOFT_COMMITMENT_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.671738'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_SOFT_COMMITMENT_01
+original_description: '>
+
+  Cluster-Marker für ambivalente, aber weich-positive Beziehungsangebote, bei denen
+
+  Verantwortung für Nähe oder Initiative auf das Gegenüber verschoben wird.'

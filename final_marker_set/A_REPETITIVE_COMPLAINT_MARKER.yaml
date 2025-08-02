@@ -1,0 +1,26 @@
+_id: A_REPETITIVE_COMPLAINT_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_REPETITIVE_COMPLAINT_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Es ist immer wieder das gleiche mit dir und deiner Unpünktlichkeit.
+- Schon wieder dieses Thema – ich dachte, wir hätten es längst geklärt.
+- Nicht schon wieder musst du mich daran erinnern, ich weiß es doch.
+- Jedes Mal dasselbe Drama, wenn du zu spät bist.
+- Wir hatten das doch schon besprochen, warum redest du immer noch davon?
+pattern: Pattern for A_REPETITIVE_COMPLAINT_MARKER
+metadata:
+  created: 2025-07-23 01:07:11.156251
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250723_F191
+original_description: 'Erfasst sprachliche Muster, die auf die Wiederholung eines
+  bekannten Problems oder Konflikts hinweisen.
+
+  '

@@ -1,0 +1,31 @@
+_id: C_SUSTAINED_CONTACT_MARKER
+frame:
+  signal: Conversational dynamics patterns for C_SUSTAINED_CONTACT_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Meld dich, wenn du wach bist ☕️
+- Gute Nacht – schreib morgen.
+- Memes des Tages schon gesehen?
+- Voice-Note Marathon again?
+- Noch wach? 🌙
+- Ping mich, wenn du Pause hast.
+- Schon zwei Monate Daily-Streak!
+- Kein Tag ohne dein Update.
+- Jeden Abend ein Recap, crazy.
+- Hab extra Datenvolumen für dich geholt.
+pattern: Pattern for C_SUSTAINED_CONTACT_MARKER
+metadata:
+  created: 2025-07-20 11:58:15.715511
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250720_C103
+original_description: 'Ungewöhnlich hohe Kommunikationsfrequenz (≥ 3/Woche) länger
+  als zwei Monate ohne äußeren Sachzwang.
+
+  '

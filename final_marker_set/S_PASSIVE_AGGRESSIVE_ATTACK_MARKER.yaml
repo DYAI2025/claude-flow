@@ -1,0 +1,26 @@
+_id: S_PASSIVE_AGGRESSIVE_ATTACK_MARKER
+frame:
+  signal: Conversational dynamics patterns for S_PASSIVE_AGGRESSIVE_ATTACK_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- War ja klar. Ich sag mal so, andere hätten das anders gelöst.
+- Schön für dich. Um ehrlich zu sein, ich hätte mir etwas mehr Unterstützung gewünscht.
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for S_PASSIVE_AGGRESSIVE_ATTACK_MARKER
+metadata:
+  created: 2025-07-21 12:52:44.921570
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: SGR_PASSIVE_AGGRESSIVE_ATTACK_01
+original_description: 'Semantische Kombination aus subtilem Sarkasmus und einer verdeckten
+  Anschuldigung, um Kritik zu üben, ohne direkt konfrontativ zu sein.
+
+  '

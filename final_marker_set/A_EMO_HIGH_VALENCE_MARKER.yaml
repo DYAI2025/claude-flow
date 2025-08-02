@@ -1,0 +1,27 @@
+_id: A_EMO_HIGH_VALENCE_MARKER
+frame:
+  signal: Emotional expression patterns for A_EMO_HIGH_VALENCE_MARKER
+  concept: Affective state indicators
+  pragmatics: Emotion recognition and tracking
+  narrative: Monitoring emotional trajectories in conversation
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for A_EMO_HIGH_VALENCE_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.632499'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_EMO_HIGH_VALENCE_01
+original_description: '>
+
+  Atomic marker fired when the EmotionDynamics detector assigns
+
+  a valence score ≥ 0.6 (strongly positive) to a single utterance.'

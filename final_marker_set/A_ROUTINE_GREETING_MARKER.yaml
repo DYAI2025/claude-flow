@@ -1,0 +1,26 @@
+_id: A_ROUTINE_GREETING_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_ROUTINE_GREETING_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Good morning NAME.
+- Hey, hast du  gut geschlafen?
+- Ich wünsche dir  einen schönen guten Morgen
+- gut geschlafen?
+- Wie war deine Nacht?
+- Hast du schöne Träume gehabt?
+pattern: Pattern for A_ROUTINE_GREETING_MARKER
+metadata:
+  created: 2025-07-21 18:31:15.082592
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250721_1972
+original_description: 'Typische, wiederkehrende Grußformeln zu bestimmten Tageszeiten.
+
+  '

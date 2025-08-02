@@ -1,0 +1,29 @@
+_id: C_FRIENDSHIP_SIGNALING_MARKER
+frame:
+  signal: Conversational dynamics patterns for C_FRIENDSHIP_SIGNALING_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for C_FRIENDSHIP_SIGNALING_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.628903'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_FRIENDSHIP_SIGNALING_01
+original_description: '>
+
+  Cluster-Marker für sprachliche Signale, die Zugehörigkeit, Vertrautheit und
+
+  freundschaftliche Nähe erzeugen. Oft durch Anspielungen, geteilte Geschichte,
+
+  Nicknames oder ironische Zuneigung ausgedrückt.'

@@ -1,0 +1,27 @@
+_id: A_UNPREDICTABLE_CAREGIVER_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_UNPREDICTABLE_CAREGIVER_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for A_UNPREDICTABLE_CAREGIVER_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.795170'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_UNPRED_CARE_01
+original_description: '>
+
+  Aussagen über wechselhafte, inkonsistente oder ängstigende
+
+  Reaktionen der Bindungsperson (Anzeichen für ängstliche Bindung).'

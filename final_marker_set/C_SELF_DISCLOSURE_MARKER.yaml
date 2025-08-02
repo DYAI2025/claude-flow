@@ -1,0 +1,29 @@
+_id: C_SELF_DISCLOSURE_MARKER
+frame:
+  signal: Conversational dynamics patterns for C_SELF_DISCLOSURE_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for C_SELF_DISCLOSURE_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.767823'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_SELF_DISC_CL_01
+original_description: '>
+
+  Cluster-Wrapper für Atomic A_SELF_DISCLOSURE, um Offenlegungen
+
+  (persönliche Infos, Gefühle) als kombinationsfähige Einheit
+
+  abzubilden.'

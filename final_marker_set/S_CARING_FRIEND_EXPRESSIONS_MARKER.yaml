@@ -1,0 +1,29 @@
+_id: S_CARING_FRIEND_EXPRESSIONS_MARKER
+frame:
+  signal: Emotional expression patterns for S_CARING_FRIEND_EXPRESSIONS_MARKER
+  concept: Affective state indicators
+  pragmatics: Emotion recognition and tracking
+  narrative: Monitoring emotional trajectories in conversation
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for S_CARING_FRIEND_EXPRESSIONS_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.787226'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250721_5369
+original_description: '>
+
+  Bedeutungsgruppe von Sätzen, die Fürsorge, Freundschaft und emotionale
+
+  Verbundenheit signalisieren – oft durch Humor, Neckerei oder direkte
+
+  Zuneigungsbekundung.'

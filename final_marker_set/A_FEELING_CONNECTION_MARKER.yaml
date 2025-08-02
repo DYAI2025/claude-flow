@@ -1,0 +1,25 @@
+_id: A_FEELING_CONNECTION_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_FEELING_CONNECTION_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for A_FEELING_CONNECTION_MARKER
+metadata:
+  created: 2025-07-21 18:44:37.854322
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250721_DC94
+original_description: 'Phrasen, die ein Gefühl der Verbundenheit direkt ausdrücken.
+
+  '

@@ -1,0 +1,27 @@
+_id: 'S_EXPLICIT_CONNECTION
+
+  - id: "S_EXPLICIT_CONNECTION"'
+frame:
+  signal: 'Conversational dynamics patterns for S_EXPLICIT_CONNECTION
+
+    - id: "S_EXPLICIT_CONNECTION"'
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: 'Pattern for S_EXPLICIT_CONNECTION
+
+  - id: "S_EXPLICIT_CONNECTION"'
+metadata:
+  created: '2025-08-02T19:25:11.621446'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED

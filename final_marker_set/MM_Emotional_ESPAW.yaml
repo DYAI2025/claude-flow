@@ -1,0 +1,21 @@
+_id: MM_Emotional_ESPAW
+frame:
+  signal: Meta-level communication patterns for MM_Emotional_ESPAW
+  concept: Higher-order linguistic structures
+  pragmatics: Meta-communication analysis
+  narrative: Detecting abstract patterns across multiple markers
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for MM_Emotional_ESPAW
+metadata:
+  created: '2025-08-02T19:25:11.608217'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: ATOMIC

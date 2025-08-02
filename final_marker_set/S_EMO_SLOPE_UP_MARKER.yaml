@@ -1,0 +1,29 @@
+_id: S_EMO_SLOPE_UP_MARKER
+frame:
+  signal: Emotional expression patterns for S_EMO_SLOPE_UP_MARKER
+  concept: Affective state indicators
+  pragmatics: Emotion recognition and tracking
+  narrative: Monitoring emotional trajectories in conversation
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for S_EMO_SLOPE_UP_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.729529'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_EMO_SLOPE_UP_01
+original_description: '>
+
+  Semantic marker triggered when a speaker’s valence shows a
+
+  consistently rising trend (positive slope ≥ +0.10 per message)
+
+  across at least three consecutive messages within a 15-message window.'

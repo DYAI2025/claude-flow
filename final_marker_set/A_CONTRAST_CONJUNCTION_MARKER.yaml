@@ -1,0 +1,27 @@
+_id: A_CONTRAST_CONJUNCTION_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_CONTRAST_CONJUNCTION_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- '..., but in relationship...'
+- Ich will kommen, aber ich schaff's vielleicht nicht.
+- I'd love to go, however I'm broke.
+- Er sagt ja, andererseits klingt das komisch.
+- I like the idea, but I'm not convinced.
+- Wir könnten gehen, jedoch regnet es.
+- Sounds fun, but I'm exhausted.
+pattern: Pattern for A_CONTRAST_CONJUNCTION_MARKER
+metadata:
+  created: 2025-07-21 18:55:19.340356
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250721_31CE
+original_description: 'Wörter, die einen Gegensatz oder Widerspruch einleiten.
+
+  '

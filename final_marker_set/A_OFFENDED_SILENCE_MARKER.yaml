@@ -1,0 +1,26 @@
+_id: A_OFFENDED_SILENCE_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_OFFENDED_SILENCE_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- 'A: ''Ist alles okay bei dir?'' B: ''...'''
+- 'A: ''Können wir reden?'' B: ''k.'''
+- 'A: ''Ich hab das Essen gemacht.'' B: ''aha'''
+- 'A: ''Ich liebe dich.'' B: ''mhm'''
+- Passt schon. *wendet sich ab*
+pattern: Pattern for A_OFFENDED_SILENCE_MARKER
+metadata:
+  created: 2025-07-21 12:51:49.023454
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: SGR_OFFENDED_SILENCE_01
+original_description: 'Atomic Marker für nonverbale oder einsilbige Reaktionen, die
+  Unmut signalisieren, ohne den Konflikt direkt anzusprechen (Silent Treatment).
+
+  '

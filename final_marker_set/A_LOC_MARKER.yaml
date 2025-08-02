@@ -1,0 +1,23 @@
+_id: A_LOC_MARKER
+frame:
+  signal: Named entity detection patterns for A_LOC_MARKER
+  concept: Recognition of persons, organizations, locations
+  pragmatics: Entity extraction and classification
+  narrative: Identifying key actors and references in discourse
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for A_LOC_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.639944'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250718_4F61
+original_description: '>'

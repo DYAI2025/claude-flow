@@ -1,0 +1,40 @@
+_id: A_UNILATERAL_DECISION_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_UNILATERAL_DECISION_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Ich habe entschieden, dass wir am Wochenende zu meinen Eltern fahren.
+- Wir machen das jetzt so und fertig.
+- Das ist keine Diskussion mehr.
+- Ich habe das schon gebucht, Thema durch.
+- Da gibt es nichts zu reden, Plan steht.
+- Ich hab den Vertrag unterschrieben, passt.
+- Ab morgen ändern wir die Arbeitszeiten – entschieden.
+- Ich hab das Menü gewählt, Überraschung.
+- Wir ziehen um, Ende.
+- Ich hab das Meeting verlegt, steht fest.
+- Kostenlimit ist gestrichen, Deal.
+- Ich hab dein Ticket storniert, brauchst du nicht.
+- Brauch deine Zustimmung nicht, hab’s geregelt.
+- Urlaubsplanung ist fertig, check deine Mails.
+- Ich kündige den Vertrag, Punkt.
+- Wir setzen das neue Tool ein – Beschluss.
+- Ich hab schon zugesagt, du kommst mit.
+- Die Farben hab ich gewählt, passt perfekt.
+- Ich entscheide das hier, nicht du.
+- Wir fahren jetzt los – Diskussion beendet.
+pattern: Pattern for A_UNILATERAL_DECISION_MARKER
+metadata:
+  created: 2025-07-22 00:18:55.378282
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: SGR_UNILATERAL_DECISION_01
+original_description: 'Einseitige Entscheidungen ohne Konsens.
+
+  '

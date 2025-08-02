@@ -1,0 +1,29 @@
+_id: S_AMBIVALENT_ATTACHMENT_SPEECH_MARKER
+frame:
+  signal: Attachment style linguistic patterns for S_AMBIVALENT_ATTACHMENT_SPEECH_MARKER
+  concept: Psychological attachment theory markers
+  pragmatics: Relationship pattern identification
+  narrative: Understanding interpersonal dynamics through language
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for S_AMBIVALENT_ATTACHMENT_SPEECH_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.693322'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_AMBIVALENT_SPEECH_01
+original_description: '>
+
+  Sprachliche Ausdrücke, die Nähe und Rückzug gleichzeitig
+
+  kommunizieren oder in schneller Abfolge wechseln. Oft unsicher,
+
+  widersprüchlich oder übervorsichtig formuliert.'

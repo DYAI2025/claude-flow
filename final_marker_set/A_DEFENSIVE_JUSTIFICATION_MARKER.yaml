@@ -1,0 +1,27 @@
+_id: A_DEFENSIVE_JUSTIFICATION_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_DEFENSIVE_JUSTIFICATION_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Ich wollte doch nur helfen.
+- Ich hab es doch nur gut gemeint mit dir.
+- Das war wirklich nicht meine Absicht, dich zu verletzen.
+- Ich dachte, ich helfe damit, die Situation zu lösen.
+- Example usage pattern 5 for this marker
+pattern: Pattern for A_DEFENSIVE_JUSTIFICATION_MARKER
+metadata:
+  created: 2025-07-21 12:52:07.800316
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: SGR_DEFENSIVE_JUSTIFICATION_01
+original_description: 'Atomic Marker für verteidigende Rechtfertigungen, die oft eine
+  Schuldumkehr einleiten. Die eigene Handlung wird als gut gemeint oder als Reaktion
+  dargestellt.
+
+  '

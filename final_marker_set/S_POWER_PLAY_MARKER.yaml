@@ -1,0 +1,40 @@
+_id: S_POWER_PLAY_MARKER
+frame:
+  signal: Conversational dynamics patterns for S_POWER_PLAY_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Ich habe entschieden, dass wir das Geld investieren. Deine Zweifel sind doch lächerlich.
+- Wir machen das jetzt so. Stell dich nicht so an.
+- Das ist keine Diskussion, dein Problem, wenn du’s nicht checkst.
+- Ich hab das schon gebucht. Übertreib mal nicht mit deinen Bedenken.
+- Da gibt’s nichts zu reden, das ist doch kindisch.
+- Ich habe entschieden, dass wir umziehen. Deine Sorge ist lächerlich.
+- Wir fahren morgen früh, stell dich nicht so an.
+- Ich hab das gekündigt. Dein Drama ist überflüssig.
+- Thema erledigt, kindisch, dass du nachhakst.
+- Plan steht. Hör auf zu jammern.
+- Ich hab den Termin gesetzt. Deine Einwände? Kindisch.
+- Wir ändern die Strategie. Lächerlich, dass du jetzt Panik schiebst.
+- Ich hab schon unterschrieben. Stell dich nicht so an.
+- Diskussion beendet, deine Emotionen sind peinlich.
+- Ich setz das so um. Wenn du Angst hast, ist das dein Problem.
+- Entschieden. Kindisch, dass du Widerstand leistest.
+- Ich regel das alleine. Lächerlich, wie du dich aufregst.
+- Wir nutzen das Tool. Deine Skepsis ist kindisch.
+- Vertrag ist fix. Hör auf zu übertreiben.
+- Ich hab alles arrangiert. Deine Bedenken sind Drama.
+pattern: Pattern for S_POWER_PLAY_MARKER
+metadata:
+  created: 2025-07-22 00:20:07.051016
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: SGR_POWER_PLAY_01
+original_description: 'Einseitige Entscheidung + gleichzeitige Abwertung.
+
+  '

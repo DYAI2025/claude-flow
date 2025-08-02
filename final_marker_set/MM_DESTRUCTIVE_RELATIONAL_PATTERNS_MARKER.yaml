@@ -1,0 +1,35 @@
+_id: MM_DESTRUCTIVE_RELATIONAL_PATTERNS_MARKER
+frame:
+  signal: Emotional expression patterns for MM_DESTRUCTIVE_RELATIONAL_PATTERNS_MARKER
+  concept: Affective state indicators
+  pragmatics: Emotion recognition and tracking
+  narrative: Monitoring emotional trajectories in conversation
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for MM_DESTRUCTIVE_RELATIONAL_PATTERNS_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.762480'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_DESTRUCTIVE_PATTERNS_01
+original_description: '>
+
+  Meta-Marker zur Erkennung rekursiv-destruktiver Beziehungsmuster, die auf
+
+  unbewussten Schutzstrategien beruhen. Diese Muster destabilisieren Bindung,
+
+  Kommunikation und Selbstwahrnehmung. Sie zeigen sich meist nicht direkt,
+
+  sondern über wiederholte semantische Driftkombinationen wie Schuldumkehr,
+
+  Vermeidung, Rückzug, widersprüchliche Nähe-/Distanzimpulse und emotionale Instabilität.
+
+  In der Regel sind sie Ausdruck eines älteren, dysfunktionalen Copingsystems.'

@@ -1,0 +1,25 @@
+_id: S_HIGH_PRESSURE_DEMAND_MARKER
+frame:
+  signal: Conversational dynamics patterns for S_HIGH_PRESSURE_DEMAND_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Experten sagen, dass dieses Angebot nur noch heute gilt, also müssen Sie sich
+- jetzt entscheiden.
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for S_HIGH_PRESSURE_DEMAND_MARKER
+metadata:
+  created: 2025-07-18 02:14:09.189799
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250718_08AA
+original_description: 'id: S_HIGH_PRESSURE_DEMAND
+
+  '

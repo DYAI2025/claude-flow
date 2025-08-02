@@ -1,0 +1,31 @@
+_id: MM_RELATIONAL_STABILITY_FRIENDSHIP_MARKER
+frame:
+  signal: Meta-level communication patterns for MM_RELATIONAL_STABILITY_FRIENDSHIP_MARKER
+  concept: Higher-order linguistic structures
+  pragmatics: Meta-communication analysis
+  narrative: Detecting abstract patterns across multiple markers
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for MM_RELATIONAL_STABILITY_FRIENDSHIP_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.663355'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+category: UNCATEGORIZED
+semantic_id: SGR_META_FRIENDSHIP_01
+original_description: '>
+
+  Meta-Marker zur Erkennung stabilisierender, bindungsbezogener Sprachmuster
+
+  in Freundschaften. Aktiv bei wiederholter Bezugnahme auf Loyalität, gemeinsame
+
+  Geschichte, humorvolle Intimität und Fürsorge. Oft gepaart mit Schutzangeboten
+
+  oder selbstironischem Bezug.'

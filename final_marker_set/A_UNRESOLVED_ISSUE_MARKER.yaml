@@ -1,0 +1,26 @@
+_id: A_UNRESOLVED_ISSUE_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_UNRESOLVED_ISSUE_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Ganz ehrlich, wir drehen uns im Kreis und finden einfach keine Lösung.
+- Wir kommen hier einfach nicht weiter mit dieser Entscheidung.
+- Das führt zu nichts, wenn wir so weiter diskutieren.
+- Es gibt keine Lösung für dieses Problem, oder?
+- Wir stecken fest und wissen nicht, wie es weitergehen soll.
+pattern: Pattern for A_UNRESOLVED_ISSUE_MARKER
+metadata:
+  created: 2025-07-23 01:09:01.113873
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250723_0B15
+original_description: 'Identifiziert Ausdrücke, die einen Stillstand oder eine fehlende
+  Lösung in einer Diskussion signalisieren.
+
+  '

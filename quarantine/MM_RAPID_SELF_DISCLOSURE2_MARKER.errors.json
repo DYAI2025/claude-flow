@@ -1,0 +1,7 @@
+{
+  "file": "MM_RAPID_SELF_DISCLOSURE2_MARKER.yaml",
+  "error": "'dict' object has no attribute 'startswith'",
+  "error_type": "AttributeError",
+  "timestamp": "2025-08-02T19:25:11.797000",
+  "stage": "normalization"
+}

@@ -1,0 +1,27 @@
+_id: A_UNCERTAINTY_PHRASE_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_UNCERTAINTY_PHRASE_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- but in relationship - I don't know.
+- Ich weiß nicht 🤷‍♂️, vielleicht morgen?
+- Kein Plan, bin unsicher...
+- I'm not sure about that tbh.
+- I don't know 🤔, feels weird.
+- Ich bin unsicher, was du meinst.
+- I dunno, kinda lost here.
+pattern: Pattern for A_UNCERTAINTY_PHRASE_MARKER
+metadata:
+  created: 2025-07-21 18:54:41.431918
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: AUTO_SEM_20250721_D963
+original_description: 'Ausdrücke, die Nichtwissen, Zweifel oder Unsicherheit signalisieren.
+
+  '

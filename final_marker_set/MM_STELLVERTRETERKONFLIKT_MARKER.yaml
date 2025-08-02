@@ -1,0 +1,21 @@
+_id: M_STELLVERTRETERKONFLIKT_MARKER
+frame:
+  signal: Conversational dynamics patterns for M_STELLVERTRETERKONFLIKT_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for M_STELLVERTRETERKONFLIKT_MARKER
+metadata:
+  created: '2025-07-14T00:42:25.155399'
+  author: FRAUSAR_GUI_v2
+  version: '1.0'
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED

@@ -1,0 +1,25 @@
+_id: A_SUBTLE_SARCASM_MARKER
+frame:
+  signal: Conversational dynamics patterns
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Example usage pattern 1 for this marker
+- Example usage pattern 2 for this marker
+- Example usage pattern 3 for this marker
+- Example usage pattern 4 for this marker
+- Example usage pattern 5 for this marker
+pattern: Pattern for A_SUBTLE_SARCASM_MARKER
+metadata:
+  created: '2025-08-02T19:25:11.571707'
+  author: complete_markers.py
+  version: '1.0'
+  tags:
+  - normalized
+  - ld3.11
+semantic_id: SGR_SUBTLE_SARCASM_01
+original_description: '''Atomic Marker für subtilen Sarkasmus oder Ironie, die oft
+  zur verdeckten
+
+  Kritik genutzt wird.'

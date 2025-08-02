@@ -1,0 +1,50 @@
+_id: A_TOGETHERNESS_TERMS_MARKER
+frame:
+  signal: Conversational dynamics patterns for A_TOGETHERNESS_TERMS_MARKER
+  concept: Interaction and dialogue structures
+  pragmatics: Conversation flow analysis
+  narrative: Understanding communication patterns and strategies
+examples:
+- Wir beide schaffen das schon.
+- The two of us can handle this.
+- Lass uns das zusammen machen.
+- Let’s do this together.
+- Das ist unsere kleine Tradition.
+- That’s our little tradition.
+- Gemeinsam sind wir stark.
+- Together we’re strong.
+- Wir sind einfach ein gutes Team.
+- We’re simply a great team.
+- Our playlist needs a new anthem.
+- Team us, all the way.
+- We’ve got this in the bag.
+- Let’s tackle it as a unit.
+- Our weekend itinerary looks epic.
+- We can brainstorm over coffee.
+- As a team, nothing stops us.
+- Our shared google doc is ready.
+- Together, we make deadlines cry.
+- We both know this routine by heart.
+- Our inside jokes keep multiplying.
+- We’re co-captains of this chaos.
+- Our vibe is unmatched.
+- We could write a book about us.
+- Let’s celebrate our win tonight.
+- Our combined skills are unstoppable.
+- We’ll split the tasks and conquer.
+- Our plan, our rules.
+- We rise, we shine—together.
+- As teammates in life, we rock.
+pattern: Pattern for A_TOGETHERNESS_TERMS_MARKER
+metadata:
+  created: 2025-07-22 00:26:06.785433
+  author: FRAUSAR_GUI_v2
+  version: 1.0
+  tags:
+  - needs_review
+  - neu_erstellt
+category: UNCATEGORIZED
+semantic_id: SGR_TOGETHERNESS_TERMS_01
+original_description: 'Words emphasizing the ‘we’ feeling and shared identity.
+
+  '
